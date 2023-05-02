@@ -1,8 +1,6 @@
 
 # Custom Fistel Encryption 
 
-![repo size](https://img.shields.io/github/repo-size/Faris-Alkhadhari/Custom-Fistel-Encryption)
-
 ![Java ver](https://img.shields.io/badge/Java-1.8.0__321-red)
 
 

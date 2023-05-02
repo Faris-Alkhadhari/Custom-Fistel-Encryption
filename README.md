@@ -22,7 +22,7 @@ The cipher mode is Electronic Code Book (ECB) with block size of 32 bits for bot
 3- In **Terminal**, Compile the java files with the following command:
 
 ```bash
-    javac encrypt.java && javac decrypt.java
+  javac encrypt.java && javac decrypt.java
 ```
     
 ## Encrypt a File

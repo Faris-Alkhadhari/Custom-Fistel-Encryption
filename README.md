@@ -60,8 +60,7 @@ It is better to metnion the output file Extenstion in this step.
 
 ## How does it Work?
 
-Please Read the 
-[Documentation file](https://github.com/Faris-Alkhadhari/Custom-Fistel-Encryption/Documentatiom.docx)
+Please Read the Documentation.docx file.
 
 ## Weaknesses:
 
